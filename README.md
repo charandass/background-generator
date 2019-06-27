@@ -1,1 +1,1 @@
-# background-generator
+# bulma-css-practice
